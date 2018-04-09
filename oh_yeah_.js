@@ -548,7 +548,7 @@ ellipse(x,y-5,10,5);
 
 }
 
-function draw(){
+function setup(){
   createCanvas(500,500);
   background(122,213,234);
   strokeWeight(1);
